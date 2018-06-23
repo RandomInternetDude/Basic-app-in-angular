@@ -1,0 +1,34 @@
+.jumbotron {
+	
+	opacity: 0.8;
+	margin: auto;
+	text-align: center
+
+}
+
+
+body	{
+    
+Background-color:lightgray;
+background-size :cover;
+background-position: top;
+background-repeat: no-repeat;
+margin: auto;
+}
+
+
+.card-body {
+    background-color:white;
+    opacity: 0.8;
+    float:left;
+    display:inline;
+}
+
+.card-header{
+    width:100%;
+    padding-top: 25px;
+}
+
+#form {
+    align-content: center;
+}
